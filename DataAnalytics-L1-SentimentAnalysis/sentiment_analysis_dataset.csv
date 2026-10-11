@@ -1,0 +1,31 @@
+Review,Sentiment
+"This product is amazing and works perfectly",Positive
+"I absolutely love this purchase",Positive
+"Excellent quality and fast delivery",Positive
+"Very happy with the product",Positive
+"Great value for money",Positive
+"The quality is outstanding",Positive
+"Customer service was very helpful",Positive
+"I would definitely recommend this product",Positive
+"Fantastic experience overall",Positive
+"Works better than I expected",Positive
+"This product is terrible and useless",Negative
+"I am very disappointed with this purchase",Negative
+"Poor quality and very bad service",Negative
+"The product stopped working after one day",Negative
+"Not worth the money",Negative
+"I hate this product",Negative
+"Delivery was late and the package was damaged",Negative
+"Very frustrating experience",Negative
+"I would not recommend this product",Negative
+"Completely dissatisfied with the quality",Negative
+"The product is okay",Neutral
+"Delivery was neither fast nor slow",Neutral
+"It works as described",Neutral
+"Average quality for the price",Neutral
+"Nothing special about this product",Neutral
+"The experience was acceptable",Neutral
+"It has some good and some bad features",Neutral
+"The product arrived today",Neutral
+"Packaging was standard",Neutral
+"I have mixed feelings about this purchase",Neutral
