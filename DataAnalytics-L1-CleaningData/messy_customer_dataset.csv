@@ -1,0 +1,31 @@
+Customer_ID,Name,Gender,Age,City,Join_Date,Annual_Income,Purchase_Amount
+C001,Aarav Shah,Male,25,Pune,2024-01-15,450000,1200.50
+C002,Meera Patil,female,31,Mumbai,15/02/2024,620000,2500
+C003,Rohan Deshmukh,M,29,PUNE,2024/03/10,510000,1800
+C004,Sara Khan,F,,Nashik,2024-04-02,580000,2100
+C005,Kabir Joshi,Male,42,Aurangabad,2024-05-21,,3200
+C006,Anaya Kulkarni,Female,35,pune,21-06-2024,720000,2750
+C007,Ishaan More,male,27,Mumbai,2024-07-11,490000,1500
+C008,Diya Pawar,F,30,NAGPUR,2024-08-09,550000,1900
+C009,Vivaan Jadhav,Male,33,Nashik,2024-09-18,610000,2300
+C010,Ira Sane,Female,28,Pune,2024-10-05,530000,1750
+C011,Arjun Pawar,M,39,Mumbai,2024-11-23,680000,2900
+C012,Myra Joshi,Female,26,Nashik,2024-12-14,470000,1600
+C013,Reyansh Kale,Male,45,Pune,2025-01-09,850000,4100
+C014,Aditi More,female,32,Mumbai,2025-02-17,640000,2400
+C015,Atharv Shinde,Male,150,Nagpur,2025-03-22,590000,2200
+C016,Siya Pawar,F,24,Nashik,2025-04-06,430000,1300
+C017,Omkar Patil,Male,37,Pune,2025-05-12,710000,999999
+C018,Kiara Shah,Female,29,Mumbai,2025-06-19,560000,2000
+C019,Advik Joshi,M,34,Aurangabad,2025-07-25,630000,2600
+C020,Navya Kulkarni,Female,28,PUNE,2025-08-30,520000,1850
+C021,Rudra More,Male,41,Mumbai,2025-09-08,780000,3600
+C022,Tara Desai,F,36,Nashik,2025-10-16,690000,2800
+C023,Yash Sane,Male,27,Nagpur,2025-11-04,480000,1450
+C024,Anvi Shah,Female,31,Mumbai,2025-12-20,600000,2250
+C025,Aarav Shah,Male,25,Pune,2024-01-15,450000,1200.50
+C026,Riya Nair,Female,-5,Pune,not available,unknown,-300
+C027,Vedant Kale,M,38,Mumbai,2025-13-40,740000,3100
+C028,Ishita Patil,Female,29,Nashik,2025-06-01,570000,
+C029,Dhruv Shah,Male,34,Nagpur,2025-07-14,610000,2450
+C030,Saanvi More,F,27,Mumbai,2025-08-09,540000,1950
